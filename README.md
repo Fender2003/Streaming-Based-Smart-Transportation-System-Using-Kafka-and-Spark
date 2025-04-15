@@ -1,5 +1,3 @@
-Here's a clean and professional `README.md` for your project:
-
 ---
 
 # 🚦 Streaming-Based Smart Transportation System Using Kafka and Spark
